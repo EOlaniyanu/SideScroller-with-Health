@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ScrollerWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ Name\:\ Emmanuel\ Olaniyanu\r\n\ Teacher\:\ Mr\ Hardman\r\n\ Assingment\ \#1,\ SideScroller\r\n\ Date\ Last\ Modified\:\ 27th\ of\ Febuary\ //\ Actually\ added\ the\ date\ last\ modified\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ Mark\:\ 13.5/10\r\n\ +5\ Mark\:\r\n\ -1\ Mark\:\ Incomplete\ assignment\ comment\ block\ ----\ Corrected\r\n\ -1\ Mark\:\ Incorrect\ comment\ blocks\ -\ Still\ some\ floating\ around\ in\ your\ code.\ Changed\ to\ -0.5\ Mark\r\n
+comment1.params=
+comment1.target=ScrollerWorld()
+comment1.text=\r\n\ ScrollerWorld\ creates\ the\ size\ of\ the\ world\ and\ starts\ the\ prepareWorld\ and\ displayScore\ methods\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ nothing\ to\ return\r\n
+comment2.params=
+comment2.target=void\ prepareWorld()
+comment2.text=\r\n\ prepareWorld\ adds\ objects\ to\ world\ to\ prepare\ the\ game\ for\ use\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ --act\ makes\ sure\ the\ platfroms\ continue\ to\ spawn\ in\ front\ of\ Hero\ as\ the\ right\ key\ is\ pressed\ and\r\n\ also\ spawns\ a\ number\ of\ Enemy\ actors\ as\ well\ as\ startung\ the\ displayScore\ method\r\n\ \r\n
+comment4.params=
+comment4.target=void\ addFruit()
+comment4.text=\r\n\ --addFruit\ adds\ a\ HealthFruit\ to\ the\ world\ \r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ retuurned\r\n
+comment5.params=
+comment5.target=void\ gameOver()
+comment5.text=\r\n\ gameOver\ stops\ the\ game\ when\ its\ launched\ and\ also\ prints\ a\ message\ to\ the\ user\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ displayScore()
+comment6.text=\r\n\ displayScore\ displays\ the\ score\ at\ the\ left\ corner\ of\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment7.params=c
+comment7.target=void\ addToScore(int)
+comment7.text=\r\n\ --addToScore\ adds\ 1\ to\ the\ score\ variable\r\n\ \r\n\ @param\ c\ is\ an\ int\ variable\ that\ contains\ the\ change\ that\ is\ to\ be\ applied\ to\ score\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rasengan
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rasengan\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=h
+comment1.target=Rasengan(Hero)
+comment1.text=\r\n\ Rasengan\ sets\ the\ image\ of\ the\ Rasengan\ when\ launched\r\n\ @param\ h\ gets\ a\ refrence\ to\ Hero\ object\r\n\ @return\ There\ is\ nothing\ to\ return\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ --Act\ -\ do\ whatever\ the\ Rasengan\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ There\ is\ nothing\ to\ return\r\n
+numComments=3

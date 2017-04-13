@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Hero\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Hero()
+comment1.text=\r\n\ --\ This\ constructor\ comment\ is\ still\ a\ problem.\ Look\ at\ your\ constructor\r\n\ comment\ for\ ScrollerWorld\ for\ help.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Hero\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ act\ launches\ the\ movement\ and\ checkCollisions\ method\r\n
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=\r\n\ movement\ controls\ the\ movement\ of\ the\ Hero\ \r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ fall()
+comment4.text=\r\n\ fall\ causes\ the\ Hero\ to\ fall\ when\ he\ jumps\ or\ moves\ up\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkCollisions()
+comment5.text=\r\n\ --checkCollisions\ checks\ if\ the\ Hero\ is\ in\ contact\ with\ other\ actors\ and\ responds\ accordinly\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=boolean\ getRight()
+comment6.text=\r\n\ getRight\ sends\ the\ lookingRight\ variable\ to\ Rasengan's\ code\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ returns\ lookingRight\ variable\r\n
+numComments=7
